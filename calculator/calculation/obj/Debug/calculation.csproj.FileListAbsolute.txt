@@ -1,0 +1,49 @@
+c:\users\pe3-teacher\documents\visual studio 2017\Projects\calculation\calculation\bin\Debug\calculation.exe.config
+c:\users\pe3-teacher\documents\visual studio 2017\Projects\calculation\calculation\bin\Debug\calculation.exe
+c:\users\pe3-teacher\documents\visual studio 2017\Projects\calculation\calculation\bin\Debug\calculation.pdb
+c:\users\pe3-teacher\documents\visual studio 2017\Projects\calculation\calculation\obj\Debug\calculation.csprojResolveAssemblyReference.cache
+c:\users\pe3-teacher\documents\visual studio 2017\Projects\calculation\calculation\obj\Debug\calculation.Form1.resources
+c:\users\pe3-teacher\documents\visual studio 2017\Projects\calculation\calculation\obj\Debug\calculation.Properties.Resources.resources
+c:\users\pe3-teacher\documents\visual studio 2017\Projects\calculation\calculation\obj\Debug\calculation.csproj.GenerateResource.Cache
+c:\users\pe3-teacher\documents\visual studio 2017\Projects\calculation\calculation\obj\Debug\calculation.exe
+c:\users\pe3-teacher\documents\visual studio 2017\Projects\calculation\calculation\obj\Debug\calculation.pdb
+E:\Users\Administrator\Downloads\Iek Υλες\Τέταρτο εξάμηνο\C#\calculation\calculation\bin\Debug\calculation.exe.config
+E:\Users\Administrator\Downloads\Iek Υλες\Τέταρτο εξάμηνο\C#\calculation\calculation\bin\Debug\calculation.exe
+E:\Users\Administrator\Downloads\Iek Υλες\Τέταρτο εξάμηνο\C#\calculation\calculation\bin\Debug\calculation.pdb
+E:\Users\Administrator\Downloads\Iek Υλες\Τέταρτο εξάμηνο\C#\calculation\calculation\obj\Debug\calculation.csprojResolveAssemblyReference.cache
+E:\Users\Administrator\Downloads\Iek Υλες\Τέταρτο εξάμηνο\C#\calculation\calculation\obj\Debug\calculation.Form1.resources
+E:\Users\Administrator\Downloads\Iek Υλες\Τέταρτο εξάμηνο\C#\calculation\calculation\obj\Debug\calculation.Properties.Resources.resources
+E:\Users\Administrator\Downloads\Iek Υλες\Τέταρτο εξάμηνο\C#\calculation\calculation\obj\Debug\calculation.csproj.GenerateResource.cache
+E:\Users\Administrator\Downloads\Iek Υλες\Τέταρτο εξάμηνο\C#\calculation\calculation\obj\Debug\calculation.csproj.CoreCompileInputs.cache
+E:\Users\Administrator\Downloads\Iek Υλες\Τέταρτο εξάμηνο\C#\calculation\calculation\obj\Debug\calculation.exe
+E:\Users\Administrator\Downloads\Iek Υλες\Τέταρτο εξάμηνο\C#\calculation\calculation\obj\Debug\calculation.pdb
+E:\Users\Administrator\Downloads\Iek Υλες\4o εξάμηνο\C#\calculation\calculation\obj\Debug\calculation.csprojResolveAssemblyReference.cache
+E:\Users\Administrator\Downloads\Iek Υλες\4o εξάμηνο\C#\calculation\calculation\obj\Debug\calculation.Form1.resources
+E:\Users\Administrator\Downloads\Iek Υλες\4o εξάμηνο\C#\calculation\calculation\obj\Debug\calculation.Properties.Resources.resources
+E:\Users\Administrator\Downloads\Iek Υλες\4o εξάμηνο\C#\calculation\calculation\obj\Debug\calculation.csproj.GenerateResource.cache
+E:\Users\Administrator\Downloads\Iek Υλες\4o εξάμηνο\C#\calculation\calculation\obj\Debug\calculation.csproj.CoreCompileInputs.cache
+E:\Users\Administrator\Downloads\Iek Υλες\4o εξάμηνο\C#\calculation\calculation\obj\Debug\calculation.exe
+E:\Users\Administrator\Downloads\Iek Υλες\4o εξάμηνο\C#\calculation\calculation\obj\Debug\calculation.pdb
+E:\Users\Administrator\Downloads\Iek Υλες\4o εξάμηνο\C#\calculation\calculation\bin\Debug\calculation.exe.config
+E:\Users\Administrator\Downloads\Iek Υλες\4o εξάμηνο\C#\calculation\calculation\bin\Debug\calculation.exe
+E:\Users\Administrator\Downloads\Iek Υλες\4o εξάμηνο\C#\calculation\calculation\bin\Debug\calculation.pdb
+C:\Users\User\Desktop\calculation\calculation\bin\Debug\calculation.exe.config
+C:\Users\User\Desktop\calculation\calculation\bin\Debug\calculation.exe
+C:\Users\User\Desktop\calculation\calculation\bin\Debug\calculation.pdb
+C:\Users\User\Desktop\calculation\calculation\obj\Debug\calculation.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\calculation\calculation\obj\Debug\calculation.Form1.resources
+C:\Users\User\Desktop\calculation\calculation\obj\Debug\calculation.Properties.Resources.resources
+C:\Users\User\Desktop\calculation\calculation\obj\Debug\calculation.csproj.GenerateResource.cache
+C:\Users\User\Desktop\calculation\calculation\obj\Debug\calculation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\calculation\calculation\obj\Debug\calculation.exe
+C:\Users\User\Desktop\calculation\calculation\obj\Debug\calculation.pdb
+C:\Users\User\Desktop\Νέος φάκελος (2)\calculator\calculation\bin\Debug\calculation.exe.config
+C:\Users\User\Desktop\Νέος φάκελος (2)\calculator\calculation\bin\Debug\calculation.exe
+C:\Users\User\Desktop\Νέος φάκελος (2)\calculator\calculation\bin\Debug\calculation.pdb
+C:\Users\User\Desktop\Νέος φάκελος (2)\calculator\calculation\obj\Debug\calculation.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Νέος φάκελος (2)\calculator\calculation\obj\Debug\calculation.Form1.resources
+C:\Users\User\Desktop\Νέος φάκελος (2)\calculator\calculation\obj\Debug\calculation.Properties.Resources.resources
+C:\Users\User\Desktop\Νέος φάκελος (2)\calculator\calculation\obj\Debug\calculation.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Νέος φάκελος (2)\calculator\calculation\obj\Debug\calculation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Νέος φάκελος (2)\calculator\calculation\obj\Debug\calculation.exe
+C:\Users\User\Desktop\Νέος φάκελος (2)\calculator\calculation\obj\Debug\calculation.pdb
